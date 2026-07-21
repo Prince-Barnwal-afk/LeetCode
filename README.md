@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
