@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -127,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
