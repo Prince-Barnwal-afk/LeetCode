@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
