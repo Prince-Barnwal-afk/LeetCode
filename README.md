@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
