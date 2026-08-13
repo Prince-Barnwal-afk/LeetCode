@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
