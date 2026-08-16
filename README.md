@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0680-valid-palindrome-ii) |
