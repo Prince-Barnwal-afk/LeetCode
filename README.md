@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0739-daily-temperatures) |
+| [1652-defuse-the-bomb](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1652-defuse-the-bomb](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
