@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0739-daily-temperatures) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1652-defuse-the-bomb](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
