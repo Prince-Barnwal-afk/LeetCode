@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
