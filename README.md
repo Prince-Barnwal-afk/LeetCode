@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
