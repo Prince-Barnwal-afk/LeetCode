@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0836-rectangle-overlap) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
