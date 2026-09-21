@@ -1,11 +1,20 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
-        Arrays.sort(prices);
-        int cheapest = prices[0];
-        int secondCheap = prices[1];
+        int min1 = Integer.MAX_VALUE;
+        int min2 = Integer.MAX_VALUE;
 
-        if(cheapest + secondCheap <= money){
-            money -= cheapest + secondCheap;
+        for (int price : prices) {
+            if (price < min1) {
+                min2 = min1;
+                min1 = price;
+            } else if (price < min2) {
+                min2 = price;
+            }
+        }
+
+        int totalCost = min1 + min2;
+        if (totalCost <= money) {
+            return money - totalCost;
         }
         return money;
     }
