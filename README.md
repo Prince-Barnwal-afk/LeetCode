@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2706-buy-two-chocolates](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2706-buy-two-chocolates](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2706-buy-two-chocolates](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
