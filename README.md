@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
