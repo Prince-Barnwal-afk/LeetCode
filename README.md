@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
