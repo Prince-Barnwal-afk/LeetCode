@@ -1,11 +1,18 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashSet<Character> hs = new HashSet<>();
+         boolean [] seen = new boolean[26];
+         int count = 0;
 
-        for(int i = 0; i < sentence.length(); i++){
-            char ch = sentence.charAt(i);
-            hs.add(ch);
-        }
-        return hs.size() == 26;
+         if(sentence.length() < 26) return false;
+
+         for(int i = 0; i < sentence.length() ; i++){
+            int index = sentence.charAt(i) - 'a' ;
+            if(!seen[index]){
+                seen[index] = true;
+                count++;
+                if(count == 26) return true;
+            }
+         }
+         return false;
     }
 }
