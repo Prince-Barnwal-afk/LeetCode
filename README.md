@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2396-strictly-palindromic-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
