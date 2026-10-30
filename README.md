@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prince-Barnwal-afk/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
