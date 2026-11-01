@@ -1,20 +1,20 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int ans [] = new int[2];
-
+        long n = nums.length;
+        long sN = (long) (n * (n + 1)) / 2;
+        long sN2 =  (long) (n * (n + 1) * (2 * n + 1)) / 6;
+        long s = 0; long s2 = 0;
         for(int i = 0; i < nums.length; i++){
-            int key = nums[i];
-            map.put(key, map.getOrDefault(key, 0) + 1);
+            s += nums[i];
+            s2 += (long) nums[i] * (long) nums[i];
         }
-        for(int i = 1; i <= nums.length; i++){
-            if(map.containsKey(i)  && map.get(i )> 1){
-                ans[0] = i;
-            }
-            if(!map.containsKey(i)){
-                ans[1] = i;
-            }
-        }
-        return ans;
+        long val1 = s - sN;
+        long val2 = s2 - sN2;
+        val2 = val2 / val1;
+
+        long x = (val1 + val2) / 2;
+        long y = x - val1;
+
+        return new int[] {(int) x, (int) y};
     }
 }
