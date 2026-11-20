@@ -14,11 +14,11 @@ class Solution {
         int even = 0;
 
         for(int i = 0; i < prifix.length; i++){
-            if(prifix[i] % 2 == 0){
-                ans = (ans + odd) % MOD;
+            if(prifix[i] % 2 == 0){ // c -0> odd
+                ans = (ans + odd) % MOD; // odd ++ evem = odd
                 even++;
-            }else{
-                ans = (ans + even) % MOD;
+            }else{ // c -> at evem
+                ans = (ans + even) % MOD; // even + odd = odd
                 odd++;
             }
         }
